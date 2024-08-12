@@ -1,0 +1,11 @@
+,count,unique,top,freq
+checking_balance,1000,4,unknown,394
+credit_history,1000,5,good,530
+purpose,1000,6,furniture/appliances,473
+savings_balance,1000,5,< 100 DM,603
+employment_duration,1000,5,1 - 4 years,339
+other_credit,1000,3,none,814
+housing,1000,3,own,713
+job,1000,4,skilled,630
+phone,1000,2,no,596
+default,1000,2,no,700
